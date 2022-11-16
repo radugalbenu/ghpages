@@ -7,5 +7,5 @@ code
 
 
 ```
-#Code shows up like this
+$Code shows up like this
 ```
