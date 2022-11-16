@@ -1,3 +1,4 @@
 # ghpages
 
-``
+```yaml
+CODE
