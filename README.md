@@ -1,6 +1,6 @@
 # ghpages
 
 ```yaml
-    $test = g
+    $test = somethin'
 
 ```
