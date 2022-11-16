@@ -1,6 +1,6 @@
 # ghpages
 
-``
+```
     $test = somethin'
 
 ```
