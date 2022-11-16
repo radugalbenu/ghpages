@@ -6,6 +6,6 @@ code
 
 
 
-```code
+```yaml
 $Code shows up like this
 ```
